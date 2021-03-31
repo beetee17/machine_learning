@@ -1,0 +1,130 @@
+1549868712849	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/9f/jnd4l3yd0ysd8wtrw0j4z0bw0000gn/T/rust_mozprofile.frx4atVrpkyZ"
+1549868714211	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1549868714212	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1549868716900	Marionette	INFO	Listening on port 61121
+1549868716975	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 22832, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+[Child 22832, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+[Child 22832, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+[Child 22832, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+1549868812501	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/9f/jnd4l3yd0ysd8wtrw0j4z0bw0000gn/T/rust_mozprofile.HnoWo5qP39Po"
+1549868813307	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1549868813307	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1549868815622	Marionette	INFO	Listening on port 61619
+1549868815708	Marionette	WARN	TLS certificate errors will be ignored for this session
+1549868850973	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/9f/jnd4l3yd0ysd8wtrw0j4z0bw0000gn/T/rust_mozprofile.U0GKQuIOFqbw"
+1549868851644	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1549868851644	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1549868853487	Marionette	INFO	Listening on port 61819
+1549868853554	Marionette	WARN	TLS certificate errors will be ignored for this session
+1549868928697	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/9f/jnd4l3yd0ysd8wtrw0j4z0bw0000gn/T/rust_mozprofile.G3PaEuxljksP"
+1549868929389	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1549868929389	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1549868931452	Marionette	INFO	Listening on port 62227
+1549868931478	Marionette	WARN	TLS certificate errors will be ignored for this session
+1549868934463	Marionette	INFO	Stopped listening on port 61121
+1549868938198	Marionette	INFO	Stopped listening on port 61619
+1549868941066	Marionette	INFO	Stopped listening on port 61819
+JavaScript error: https://www.premierleague.com/resources/ver/app/app-widgets.js, line 198: TypeError: i18n.lookup is not a function
+JavaScript error: https://www.premierleague.com/resources/ver/app/app-widgets.js, line 198: TypeError: i18n.lookup is not a function
+Can't find symbol 'GetGraphicsResetStatus'.
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+1549869087737	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/9f/jnd4l3yd0ysd8wtrw0j4z0bw0000gn/T/rust_mozprofile.goO1ca4mfXm0"
+1549869088334	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1549869088334	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1549869090162	Marionette	INFO	Listening on port 62602
+1549869090239	Marionette	WARN	TLS certificate errors will be ignored for this session
+1549869108590	Marionette	INFO	Stopped listening on port 62227
+1549869110480	Marionette	INFO	Stopped listening on port 62602
+1549869257023	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/9f/jnd4l3yd0ysd8wtrw0j4z0bw0000gn/T/rust_mozprofile.otHawqGcjY0Y"
+1549869257612	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1549869257613	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1549869259466	Marionette	INFO	Listening on port 62763
+1549869259483	Marionette	WARN	TLS certificate errors will be ignored for this session
+1549869399285	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/9f/jnd4l3yd0ysd8wtrw0j4z0bw0000gn/T/rust_mozprofile.jrXvYz5cxfTr"
+1549869399887	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1549869399887	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1549869401887	Marionette	INFO	Listening on port 62926
+1549869401981	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+1549869480230	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/9f/jnd4l3yd0ysd8wtrw0j4z0bw0000gn/T/rust_mozprofile.XvmRRBua9J98"
+1549869480978	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1549869480979	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1549869482962	Marionette	INFO	Listening on port 63087
+1549869482986	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.premierleague.com/resources/ver/app/app-widgets.js, line 198: TypeError: i18n.lookup is not a function
+JavaScript error: https://www.premierleague.com/resources/ver/app/app-widgets.js, line 198: TypeError: i18n.lookup is not a function
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+JavaScript error: https://www.premierleague.com/resources/ver/app/app-widgets.js, line 198: TypeError: i18n.lookup is not a function
+JavaScript error: https://www.premierleague.com/resources/ver/app/app-widgets.js, line 198: TypeError: i18n.lookup is not a function
+1549869584762	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/9f/jnd4l3yd0ysd8wtrw0j4z0bw0000gn/T/rust_mozprofile.gt6q42pQHmcE"
+1549869585658	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1549869585659	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1549869587754	Marionette	INFO	Listening on port 63286
+1549869587834	Marionette	WARN	TLS certificate errors will be ignored for this session
+1549869588377	Marionette	INFO	Stopped listening on port 62763
+1549869591586	Marionette	INFO	Stopped listening on port 62926
+1549869594071	Marionette	INFO	Stopped listening on port 63087
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+JavaScript warning: https://no.whoscored.com/_Incapsula_Resource?SWJIYLWA=5074a744e2e3d891814e9a2dace20bd4,719d34d31c8e3a6e6fffd425f7e032f3, line 1: unreachable code after return statement
+JavaScript warning: https://no.whoscored.com/_Incapsula_Resource?SWJIYLWA=5074a744e2e3d891814e9a2dace20bd4,719d34d31c8e3a6e6fffd425f7e032f3 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://d2zywfiolv4f83.cloudfront.net/js/ws-js-canvas.js?v=1540222734, line 1: String.slice is deprecated; use String.prototype.slice instead
+JavaScript warning: https://d2zywfiolv4f83.cloudfront.net/js/ws-js-stats.js?v=1540222734, line 1: unreachable code after return statement
+JavaScript warning: https://no.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=4&cb=985171923, line 1: unreachable code after return statement
+JavaScript warning: https://no.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=4&cb=985171923, line 1: unreachable code after return statement
+JavaScript warning: https://no.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=4&cb=985171923 line 1 > eval, line 1: unreachable code after return statement
+JavaScript error: https://d2zywfiolv4f83.cloudfront.net/js/vendor/require.2.1.9.min.js?v=1540222734, line 8: Error: Script error for: https://d2zywfiolv4f83.cloudfront.net/js/ws.new.min.js?v=1540222734
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript warning: https://d2zywfiolv4f83.cloudfront.net/js/ws-js-canvas.js?v=1540222734, line 1: String.slice is deprecated; use String.prototype.slice instead
+JavaScript warning: https://d2zywfiolv4f83.cloudfront.net/js/ws-js-stats.js?v=1540222734, line 1: unreachable code after return statement
+JavaScript error: https://d2zywfiolv4f83.cloudfront.net/js/vendor/require.2.1.9.min.js?v=1540222734, line 8: Error: Script error for: https://d2zywfiolv4f83.cloudfront.net/js/ws.new.min.js?v=1540222734
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript warning: https://d2zywfiolv4f83.cloudfront.net/js/ws-js-stats.js?v=1540222734, line 1: unreachable code after return statement
+JavaScript warning: https://d2zywfiolv4f83.cloudfront.net/js/ws-js-canvas.js?v=1540222734, line 1: String.slice is deprecated; use String.prototype.slice instead
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1549869740228	Marionette	INFO	Stopped listening on port 63286
